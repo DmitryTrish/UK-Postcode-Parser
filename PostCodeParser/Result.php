@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\PostcodeParser;
+namespace PostcodeParser;
 
 class Result implements ResultInterface
 {
